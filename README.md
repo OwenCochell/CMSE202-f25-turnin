@@ -1,2 +1,6 @@
 # CMSE202-f25-turnin
-Repo for CMSE202
+
+This is a repo for the MSU CMSE202 class.
+
+- Name: Owen Cochell
+- Section: 001
